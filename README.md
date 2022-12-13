@@ -1,6 +1,6 @@
 # Lighthouse Labs | Problem Solving
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/) | [Vimeo Video Recording](https://vimeo.com/780921472/58cbcfbf69)
 
 * [X] The Learning Cycle
 * [X] I'm Lost
