@@ -1,11 +1,11 @@
 # Lighthouse Labs | Problem Solving
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/tree/2022.12.13-web-flex-all-cohorts) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
 
 * [X] The Learning Cycle
 * [X] I'm Lost
 
-![How to Learn Computer Programming](https://github.com/WarrenUhrich/lighthouse-labs-problem-solving-breakout/blob/main/assets/01-how-to-learn-computer-programming.png?raw=true)
+![How to Learn Computer Programming](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/01-how-to-learn-computer-programming.png?raw=true)
 
 ## The Learning Cycle
 
@@ -16,11 +16,11 @@ There are a variety of strategies and steps you can use in your approach to lear
 3. Create a Cheatsheet for Each Record in your Dictionary
 4. Solve Problems
 
-![The Learning Cycle](https://github.com/WarrenUhrich/lighthouse-labs-problem-solving-breakout/blob/main/assets/02-how-to-learn-computer-programming.png?raw=true)
+![The Learning Cycle](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/02-how-to-learn-computer-programming.png?raw=true)
 
 ### 1. Create a Dictionary of Terms
 
-![Dictionary](https://github.com/WarrenUhrich/lighthouse-labs-problem-solving-breakout/blob/main/assets/03-how-to-learn-computer-programming.png?raw=true)
+![Dictionary](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/03-how-to-learn-computer-programming.png?raw=true)
 
 During lectures, it is important to spend most of your time listening and watching opposed to being distracted by note-taking. This may feel counter-intuitive, but it is in your best interest!
 
@@ -39,7 +39,7 @@ Digital notes are not as effective in helping you build memory, but make for an 
 
 ### 2. Read your Code: "What is this? What happens next?"
 
-![How to Read Code](https://github.com/WarrenUhrich/lighthouse-labs-problem-solving-breakout/blob/main/assets/04-how-to-learn-computer-programming.png?raw=true)
+![How to Read Code](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/04-how-to-learn-computer-programming.png?raw=true)
 
 Whether you're reviewing a lecture, reading an exercise, got help from a mentor, or have just written a line of code, take the time to sit with your rubber duck and ask yourself for each keyword, operator, or method:
 
@@ -169,7 +169,7 @@ export default MyComponent;
 
 ### 4. Solve Problems
 
-![How to Solve Problems](https://github.com/WarrenUhrich/lighthouse-labs-problem-solving-breakout/blob/main/assets/05-how-to-learn-computer-programming.png?raw=true)
+![How to Solve Problems](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/05-how-to-learn-computer-programming.png?raw=true)
 
 While not all problems are made equal, there are consistent steps we can take to approach them efficiently. Solving problems effectively often mimics some of the steps you might take in test-driven development (TDD). Let's review some steps we can take:
 
@@ -318,7 +318,7 @@ If it feels like there are a lot of steps in the **process** component of your p
 
 ## I'm Lost
 
-![Not Sure? Ask!](https://github.com/WarrenUhrich/lighthouse-labs-problem-solving-breakout/blob/main/assets/06-how-to-learn-computer-programming.png?raw=true)
+![Not Sure? Ask!](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/06-how-to-learn-computer-programming.png?raw=true)
 
 Let's say we've gone through our processes and problem-solving steps. If you have broken down the problem(s) and find you are stuck on a particular piece, how can we get out of that bind? We can create a process for this too! Let's have a look at the steps we might take:
 
