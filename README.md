@@ -1,2 +1,4 @@
-# lighthouse-labs-breakout-learning-how-to-learn-and-problem-solving
-A breakout on "Learning How to Learn &amp; Problem Solving"
+# Lighthouse Labs | Learning How to Learn & Problem Solving
+
+* [ ] Learning Cycle
+* [ ] Problem Solving
