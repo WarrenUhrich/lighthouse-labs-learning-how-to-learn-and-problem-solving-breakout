@@ -1,6 +1,6 @@
 # Lighthouse Labs | Learning How to Learn & Problem Solving
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/tree/2024.03.06-web-flex-national-19february2024) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/tree/2024.03.06-web-flex-national-19february2024) | [Vimeo Video Recording](https://vimeo.com/920288503/147ad7359a?share=copy)
 
 * [X] Learning Cycle
 * [X] Problem Solving
